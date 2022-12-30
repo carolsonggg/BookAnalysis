@@ -1,0 +1,51 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ 314H.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-tag
+precondition:a:Precondition:
+-tag
+postcondition:a:Postcondition:
+-tag
+param
+-tag
+return
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ 314H.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 314H.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/susank/Documents/08SusanKHarker/AP CS A/GridWorldKingWorkingCode/gridworld.jar:/Users/susank/Documents/KarelDistribution/KarelJRobot.jar:/Applications/BlueJ 314H.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ 314H.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ 314H.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ 314H.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1
+-d
+/Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ 314H.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/WordAnalysis.java
+<---- end of javadoc command ---->
+Loading source file /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/WordAnalysis.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_20
+Building tree for all the packages and classes...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/WordAnalysis.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/package-frame.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/package-summary.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/allclasses-frame.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/allclasses-noframe.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/index.html...
+Generating /Users/susank/Documents/08SusanKHarker/AP CS A/SortsAndSearches/BookAnalysisUmbrella/StudentBookAnalysisTemplate_2016_v1/doc/stylesheet.css...
+Note: Custom tags that could override future standard tags:  @precondition, @postcondition. To avoid potential overrides, use at least one period character (.) in custom tag names.
+Note: Custom tags that were not seen:  @precondition, @postcondition

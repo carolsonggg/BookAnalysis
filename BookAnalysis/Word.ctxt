@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\n\ A\ word\ and\ its\ frequency\ in\ a\ book.\n\ \n\ Note\ to\ students\:\ \ you\ need\ to\ add\ code\ as\ well\ methods\ to\ the\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ class\ to\ complete\ the\ project.\n\ \n\ @author\ \ Susan\ King\n\ \ \ \ \ \ \ \ \ \ Carol\ Song\n\ @version\ March\ 4,\ 2016\n
+comment1.params=text
+comment1.target=Word(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Word.\n\ \n\ @param\ text\ the\ string\ of\ characters\ of\ the\ word\n
+comment2.params=
+comment2.target=void\ addOne()
+comment2.text=\n\ The\ "word"\ has\ already\ appeared\ in\ the\ file,\ so\ 1\ is\ \n\ added\ to\ frequency\ since\ it\ as\ appeared\ again.\n
+comment3.params=
+comment3.target=int\ getFrequency()
+comment3.text=\n\ Retrieve\ the\ frequency\ of\ the\ word.\n\ \n\ @return\ the\ frequency\ of\ the\ current\ Word\ object\n
+comment4.params=
+comment4.target=java.lang.String\ getWord()
+comment4.text=\n\ Retrieve\ the\ text\ string\ word.\n\ \n\ @return\ the\ text\ of\ the\ current\ Word\ object\n
+comment5.params=obj
+comment5.target=int\ compareTo(java.lang.Object)
+comment5.text=\n\ Compare\ lexicalgraphically\ this\ current\ Word\ object\ and\ \n\ the\ Word\ obj.\ \ \n\ \n\ @param\ obj\ \ the\ object\ to\ compare\ the\ current\ Word\ object\ to\n\ \n\ @return\ \ \ 0\ if\ this\ current\ Word\ object's\ word\ has\ equal\ to\ obj's\ word;\n\ \ \ \ \ \ \ \ \ <\ 0\ if\ this\ current\ Word\ object's\ word\ comes\ earlier\n\ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ alphabet\ than\ obj's\ word;\n\ \ \ \ \ \ \ \ \ >\ 0\ if\ this\ current\ Word\ object's\ word\ comes\ later\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ in\ the\ alphabet\ that\ obj's\ word\n
+comment6.params=obj
+comment6.target=int\ compareFrequencyTo(java.lang.Object)
+comment6.text=\n\ Compare\ this\ current\ Word\ object's\ frequency\ and\ \n\ the\ Word\ obj's\ frequency.\ \ \n\ \n\ @param\ obj\ \ the\ object\ to\ compare\ the\ current\ Word\ object\ to\n\ \n\ @return\ \ \ 0\ if\ this\ current\ Word\ object's\ frequency\ is\ equal\ to\ obj's\ frequency;\n\ \ \ \ \ \ \ \ \ <\ 0\ if\ this\ current\ Word\ object's\ frequency\ is\ less\ than\n\ \ \ \ \ \ \ \ \ \ \ \ \ obj's\ frequency;\n\ \ \ \ \ \ \ \ \ >\ 0\ if\ this\ current\ Word\ object's\ frequency\ is\ greater\ than\n\ \ \ \ \ \ \ \ \ \ \ \ \ obj's\ frequency;\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Return\ the\ text\ of\ the\ word\ and\ its\ frequency\ as\ a\ String.\n\ \n\ @return\ text\ and\ frequency\n
+numComments=8
